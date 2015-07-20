@@ -1,0 +1,9 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://klaraahlin.github.io/cloaked-batman"
+title: "Hugo Blog Template for GitHub Pages"
+...
